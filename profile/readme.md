@@ -65,7 +65,7 @@ We welcome contributions from developers and researchers alike!
 
 ## License 📄🔓
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it as needed! 👍💻
+This project is licensed under the [MIT License](https://github.com/pumpfold/.github/blob/main/LICENSE). Feel free to use and modify it as needed! 👍💻
 
 ---
 
